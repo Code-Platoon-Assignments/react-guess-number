@@ -6,7 +6,7 @@ In this assignment, you will create a "Guess a Number" game using the Vite + Rea
 
 ## Assignment Tasks
 
-### Task 1: Setup Your Development Environment (10 points)
+### Task 1: Setup Your Development Environment
 
 1. Set up your development environment with Vite and React. Install Vite and create a new React project using the following commands:
 
@@ -16,7 +16,7 @@ In this assignment, you will create a "Guess a Number" game using the Vite + Rea
 
 2. Navigate to your project directory and ensure that your development environment is ready to start building the game.
 
-### Task 2: Create the User Interface (15 points)
+### Task 2: Create the User Interface
 
 1. Design the user interface for the "Guess a Number" game. Create a React component that displays the following elements:
 
@@ -28,13 +28,13 @@ In this assignment, you will create a "Guess a Number" game using the Vite + Rea
 
 2. Style the user interface with appropriate visuals and layout to make the game engaging and user-friendly.
 
-### Task 3: Generate a Random Number (20 points)
+### Task 3: Generate a Random Number
 
 1. Implement a function to generate a random number between a specified range (e.g., 1 to 100). This number will be the target for the player to guess.
 
 2. Store the randomly generated number in the state of your React component to track the target number.
 
-### Task 4: Handle User Input (15 points)
+### Task 4: Handle User Input
 
 1. Implement a function that listens to user input in the input field.
 
@@ -42,7 +42,7 @@ In this assignment, you will create a "Guess a Number" game using the Vite + Rea
 
 3. Update the state to store the player's guess.
 
-### Task 5: Compare Guess to the Target (20 points)
+### Task 5: Compare Guess to the Target
 
 1. Compare the player's guess to the randomly generated target number.
 
@@ -50,7 +50,7 @@ In this assignment, you will create a "Guess a Number" game using the Vite + Rea
 
 3. Keep track of the number of attempts made by the player, and display this information on the screen.
 
-### Task 6: Reset the Game (10 points)
+### Task 6: Reset the Game
 
 1. Implement a "Play Again" button that allows the player to start a new game.
 
